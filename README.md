@@ -40,3 +40,5 @@ This project involves a comprehensive analysis of supermarket sales data using S
 
 ## Conclusion
 This project demonstrates the effective use of SQL for data cleaning and Google Sheets for data analysis and visualization. The combination of these tools provides a robust framework for analyzing and presenting supermarket sales data, offering valuable insights into sales performance and trends.
+
+[Link to Supermarket Sales Analysis Dashboard](https://docs.google.com/spreadsheets/d/13sgb_0c2xtlX613g2KcKO5ThpUCeXzcTSRoKbbQ6sFQ/edit?usp=sharing)
